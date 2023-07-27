@@ -1,0 +1,28 @@
+.work-space {
+    height: 97%;
+    width: 98%;
+    margin: 10px;
+
+}
+
+/*MENU*/
+.menu-space {
+    background-color: #f5f5f5;
+    border-radius: 5px;
+}
+
+.button-container {
+
+}
+
+.menu-button {
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+/*CONTENT*/
+.content-space {
+    background-color: #f5f5f5;
+    left: 10px;
+    border-radius: 5px;
+}
